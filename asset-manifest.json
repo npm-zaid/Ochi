@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ochi/static/css/main.ffa90baf.css",
-    "main.js": "/Ochi/static/js/main.dd82ddbe.js",
+    "main.css": "/Ochi/static/css/main.db568b17.css",
+    "main.js": "/Ochi/static/js/main.02c8a0e8.js",
     "static/media/Rejouice-Headline.ttf": "/Ochi/static/media/Rejouice-Headline.65c352ffc56914f7b4ab.ttf",
     "static/media/Top-Viewbbcbv-1-scaled.jpg": "/Ochi/static/media/Top-Viewbbcbv-1-scaled.9ed2ed814a2ee2dc4d1f.jpg",
     "static/media/star.png": "/Ochi/static/media/star.2b48b145297e0e20f8c3.png",
@@ -9,11 +9,11 @@
     "static/media/FoundersGrotesk-Semibold.woff": "/Ochi/static/media/FoundersGrotesk-Semibold.66c079ebcb74c4e498e1.woff",
     "static/media/logo001.svg": "/Ochi/static/media/logo001.91cd8e181d88725b4e742a3a09587136.svg",
     "index.html": "/Ochi/index.html",
-    "main.ffa90baf.css.map": "/Ochi/static/css/main.ffa90baf.css.map",
-    "main.dd82ddbe.js.map": "/Ochi/static/js/main.dd82ddbe.js.map"
+    "main.db568b17.css.map": "/Ochi/static/css/main.db568b17.css.map",
+    "main.02c8a0e8.js.map": "/Ochi/static/js/main.02c8a0e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffa90baf.css",
-    "static/js/main.dd82ddbe.js"
+    "static/css/main.db568b17.css",
+    "static/js/main.02c8a0e8.js"
   ]
 }
